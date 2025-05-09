@@ -38,6 +38,8 @@ This script:
    ```bash
    pip install mitreattack-python
 
-2. Run the mapping process:
+2. Download snort rules (snort3-community.rules) and paste the file in the root directory.
+
+3. Run the mapping process:
    ```bash
    python snortToMitre.py
